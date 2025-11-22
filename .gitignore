@@ -1,0 +1,38 @@
+# Binaries
+shellshare
+shellshare.exe
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# Build cache
+.gocache/
+
+# Session recordings
+*.log
+session.log
+
+# Config files (user-specific)
+config.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
